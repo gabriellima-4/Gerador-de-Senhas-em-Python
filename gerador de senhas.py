@@ -6,7 +6,7 @@
     # tipos de caracteres, e não poderá ser uma senha de menos de 4 digitos. 
 
 
-# bibliotecas utilizadas:
+# Bibliotecas Utilizadas:
 import random
 import string
 
@@ -38,7 +38,7 @@ def gerar_senha(tamanho):
 
 
 ########################
-## Execução do código ##
+## Execução do Código ##
 ########################
 
 comprimento_senha = int(input("Digite o tamanho (quantos caracteres) que a senha deve ter: "))
